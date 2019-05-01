@@ -12,7 +12,5 @@
 
 ## File structure
 
-    ```
         /app/index.js //Application entry point
         /dist/bundle.js //File bundle by Webpack
-    ```
